@@ -1,0 +1,16 @@
+.login-status-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .security-btn {
+    padding: 6px 12px;
+    border: 1px solid #444;
+    border-radius: 6px;
+    background: #f5f5f5;
+    cursor: pointer;
+  }
+  .login-status-user-info {
+    font-weight: 600;
+  }
+  
